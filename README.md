@@ -62,3 +62,4 @@ password: [58DzqaX
 2.支持控制K2设备.   
 3.支持控制K2 Pro设备.   
 4.支持控制K Mini Pro设备.   
+5.支持控制K Light设备.   
