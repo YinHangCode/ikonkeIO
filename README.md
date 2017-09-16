@@ -17,6 +17,9 @@
 3.K Mini Pro   
 4.K Light   
 
+## 如何安装   
+1.将ikonkeIO目录复制到你的树莓派任意目录下即可，文件夹内部的文件名称不要变动。   
+
 ## 如何使用   
 ```
 sh ikonkeIO.sh --discover 广播地址
