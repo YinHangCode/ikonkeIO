@@ -18,11 +18,11 @@
 4.K Light   
 
 ## 如何使用   
-···
+```
 sh ikonkeIO.sh --discover 广播地址
-···
-示例如下：
-···
+```
+示例如下：   
+```
 sh ikonkeIO.sh --discover 192.168.88.255
 broadcast address: 192.168.88.255, scan ikonke device.... 
 
@@ -51,7 +51,7 @@ ip: 192.168.88.20
 mac: 18-fe-56-d8-5a-e6
 password: [58DzqaX
 
-···
+```
 
 ## 版本更新记录
 ### 0.0.1
